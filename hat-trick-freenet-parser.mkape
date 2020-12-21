@@ -7,7 +7,7 @@ BinaryUrl: https://github.com/northloopforensics/Hat-Trick-Freenet-Parser/releas
 ExportFormat: txt
 Processors:
     -
-        Executable: hattrick.exe
+        Executable: Hat-Trick.Freenet.Parser.exe
         CommandLine: "%sourceDirectory% %destinationDirectory%"
         ExportFormat: txt
 #####
