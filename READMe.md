@@ -11,3 +11,6 @@ The tool parses:
     The Location ID and Network Addresses of the Target System
     Downloaded and Uploaded File Information
     Peer IDs, Peer IP Addresses, and Peer-of-Peer Location IDs
+
+Usage - Hat-Trick-Freenet-Parser.exe INPUT_FOLDER OUTPUT_FOLDER
+Usage - Hat-Trick-Freenet-Parser.exe  C: "F:\Triage_Folder"
